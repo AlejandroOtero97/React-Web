@@ -7,9 +7,9 @@ import './navbar.css';
 const Menu = () => (
   <>
   <p><a href="#home">Home</a></p>
-  <p><a href="#wreactweb">What is React Web</a></p>
-  <p><a href="#possibility">Open AI</a></p>
-  <p><a href="#features">Case Studies</a></p>
+  <p><a href="#whrw">What is React Web</a></p>
+  <p><a href="#possibility">Github</a></p>
+  <p><a href="#features">About Me</a></p>
   <p><a href="#blog">Library</a></p>
   </>
 )
